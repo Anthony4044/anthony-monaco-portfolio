@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.local
+
+# Agent tooling / installed skills — dev environment config, not site source
+.claude/
+.agents/
+.codex/
+skills-lock.json
