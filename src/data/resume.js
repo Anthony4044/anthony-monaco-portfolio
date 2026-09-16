@@ -5,8 +5,8 @@ export const profile = {
   phone: '514-953-0732',
   email: 'anthonymonaco4@icloud.com',
   links: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/anthony-monacoconcordia/',
+    github: 'https://github.com/Anthony4044/',
   },
   summary:
     'Full-stack, QA, and applied ML: shipping production systems at Airbus Canada, tested the hard way at Matrox.',
