@@ -63,6 +63,22 @@ export const experience = [
 
 export const projects = [
   {
+    name: 'Iris Community Service Platform',
+    year: '2026',
+    stack: ['OpenAI API', 'TypeScript'],
+    description:
+      'Food bank redistribution engine matching surplus grocery donations to beneficiary requests, built with nonprofit sponsor B.A.D.R. and AI-assisted intake and eligibility support, co-leading a 10-member team.',
+    tag: 'Applied AI',
+  },
+  {
+    name: 'Campus Guide Mobile Application',
+    year: '2026',
+    stack: ['React Native', 'Spring Boot', 'Google Maps APIs'],
+    description:
+      'Multi-campus navigation app with a React Native frontend and Spring Boot backend, integrating Google Maps and live shuttle tracking for interactive, calendar-based routing.',
+    tag: 'Mobile App',
+  },
+  {
     name: 'AI Focus Tracker',
     year: '2025',
     stack: ['React', 'TensorFlow.js', 'WebGazer'],
